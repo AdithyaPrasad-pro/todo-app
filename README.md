@@ -1,17 +1,17 @@
-# 📝 Todo App
+# Todo App
 
 A simple and clean Todo App built using HTML, CSS, and JavaScript.
 This project helps manage daily tasks with an interactive and user-friendly interface.
 
 ---
 
-## 🚀 Live Demo
+# Live Demo
 
 👉 https://adithyaprasad-pro.github.io/todo-app/
 
 ---
 
-## ✨ Features
+# Features
 
 * Add new tasks
 * Mark tasks as complete
@@ -21,7 +21,7 @@ This project helps manage daily tasks with an interactive and user-friendly inte
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 * HTML
 * CSS
@@ -29,7 +29,7 @@ This project helps manage daily tasks with an interactive and user-friendly inte
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 ```
 todo-app/
@@ -40,7 +40,7 @@ todo-app/
 
 ---
 
-## ⚙️ How to Run Locally
+# How to Run Locally
 
 1. Clone the repository
 2. Open the folder
@@ -48,7 +48,7 @@ todo-app/
 
 ---
 
-## 🧠 What I Learned
+# What I Learned
 
 * DOM manipulation
 * Event handling
@@ -58,7 +58,7 @@ todo-app/
 
 ---
 
-## 📌 Future Improvements
+# Future Improvements
 
 * Edit tasks feature
 * Save completed status after refresh
@@ -67,7 +67,7 @@ todo-app/
 
 ---
 
-## 👤 Author
+# Author
 
 Adithya Prasad
 
